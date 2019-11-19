@@ -3,7 +3,7 @@ A few examples of Machine Learning using the MNIST dataset.
 
 ## Setup
 
-1. Install [Anaconda](https://docs.anaconda.com/anaconda/install/) or [Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) (My preference 😉)
+1. Install [Anaconda](https://docs.anaconda.com/anaconda/install/) or [Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 2. Create tensorflow v1 environment
 ```bash
 conda env create -f environment-tf1.yml

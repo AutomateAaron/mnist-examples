@@ -1,0 +1,14 @@
+name: tensorflow-v1
+channels:
+  - defaults
+dependencies:
+  - jupyter=1.0.0=py36_7
+  - nb_conda=2.2.1=py36_0
+  - notebook=6.0.2=py36_0
+  - python=3.6.9=h359304d_0
+  - pip=19.3.1=py36_0
+  - pip:
+    - matplotlib==3.1.1
+    - numpy==1.17.4
+    - tensorflow==1.15.0
+
